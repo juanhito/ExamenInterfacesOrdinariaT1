@@ -1,0 +1,25 @@
+
+.textoTitulo {
+	-fx-font-family: "Poiret One";
+	-fx-font-size: 30.0;
+}
+
+.mybutton {
+	-fx-background-color: orange;
+	-fx-background-radius: 5px;
+}
+
+.mybutton:hover {
+	-fx-background-color: #76B5BC;
+	-fx-background-radius: 5px;
+}
+
+.fondoDerecha {
+	-fx-background-color: #76B5BC
+	}
+	
+.fondoIzquierda{
+	-fx-background-color: #9c9c9c
+}
+
+
